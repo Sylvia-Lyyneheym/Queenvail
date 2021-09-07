@@ -1,0 +1,22 @@
+提交流程
+git add
+git commit
+git push
+
+git status	状态
+git log		日志
+git reflog	操作日志
+git show	具体内容
+git checkout+file	回退修改
+
+git reset --hard	指针重定向(commit)
+git revert			撤回重做(commit)
+git rebase			变基
+
+git branch -a		查看所有分支
+git branch ***		创建分支
+git checkout ***	切换到***分支
+
+git merge			合并分支
+
+
